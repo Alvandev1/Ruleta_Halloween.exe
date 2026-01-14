@@ -3,7 +3,7 @@
 > **Supuesto Práctico:** Desarrollo y Distribución de una Aplicación de Escritorio.
 
 ## 📋 Descripción
-Proyecto final del módulo de Desarrollo de Interfaces. Consiste en una aplicación gráfica (JavaFX) que simula una ruleta de premios para Halloween, preparada profesionalmente para su distribución en entornos Windows.
+Proyecto del módulo 11 de Desarrollo de Interfaces. Consiste en una aplicación gráfica (JavaFX) que simula una ruleta de premios para Halloween, preparada profesionalmente para su distribución en entornos Windows.
 
 El objetivo principal de este repositorio es demostrar el **ciclo completo de despliegue (deployment)**, generando un instalador que permite ejecutar la aplicación en ordenadores que **no tienen Java instalado**.
 
@@ -41,7 +41,7 @@ El proyecto genera los siguientes artefactos clave para el despliegue:
 
 ## 🛠️ Tecnologías y Herramientas
 
-* **Lenguaje:** Java 21
+* **Lenguaje:** Java 25
 * **Interfaz:** JavaFX
 * **Construcción:** Apache Maven (Maven Shade Plugin)
 * **Wrapper:** Launch4j 3.50
@@ -55,5 +55,5 @@ El proyecto genera los siguientes artefactos clave para el despliegue:
 4.  ¡Ejecute el juego! (No requiere tener Java preinstalado en el equipo).
 
 ---
-**Autor:** [Tu Nombre]
+**Autor:** Alfonso Ivan Barrios Buaiz
 **Módulo:** Desarrollo de Interfaces
